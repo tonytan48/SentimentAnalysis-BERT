@@ -1,0 +1,17 @@
+twitter:
+  api:
+    pause: 5
+    app:
+      key: *******
+      secret: *******
+      token: *******
+      token_secret: *******
+stocktwits:
+  api:
+    pause: 9
+    app:
+      key: *******
+      secret: *******
+      code: *******
+      token: *******
+
