@@ -3,8 +3,8 @@ This repo is developed from: https://github.com/huggingface/pytorch-pretrained-B
 
 Benchmark Model could be run with the following code:
 ```shell
-export GLUE_DIR=/path/to/glue
-export TASK_NAME=MRPC
+export GLUE_DIR=/SST-2
+export TASK_NAME=SST-2
 
 python run_classifier.py \
   --task_name $TASK_NAME \
